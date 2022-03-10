@@ -21,4 +21,4 @@ Complete a deployment using `docker-compose` for [TestLink application](https://
 
 ## Delivery
 
-* Create a private Github repository in our account and add `armandomiani` user as team member.
+* Create a private Github repository in our account and add `armandomiani` user as a team member.
